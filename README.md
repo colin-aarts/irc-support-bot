@@ -57,7 +57,7 @@ You can also register an incoming message callback by calling `this.register_mes
 
 ### Official plug-ins
 
-**irc-support-bot** has several official plug-ins available for your convenience. The 'admin' module is probably essential, but for modularity's sake, it is still provided as an optional plug-in. There's a [[list|Plugins]] on the wiki.
+**irc-support-bot** has several official plug-ins available for your convenience. The 'admin' module is probably essential, but for modularity's sake, it is still provided as an optional plug-in. There's a [list](../../wiki/Plugins) on the wiki.
 
 ## Todo
 
