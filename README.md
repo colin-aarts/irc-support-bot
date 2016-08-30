@@ -4,7 +4,11 @@ A simple IRC bot implemented on top of [IRC-js](https://github.com/gf3/IRC-js), 
 
 ## Installation
 
-	npm install irc-support-bot
+```
+npm install irc-support-bot
+```
+
+Soon, anyway.
 
 ## In the wild
 
