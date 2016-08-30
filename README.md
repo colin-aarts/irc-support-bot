@@ -12,11 +12,11 @@ The main support bot in the [#html](irc://irc.freenode.net/html) channel on [Fre
 
 ## Running a bot
 
-See the [examples](tree/master/examples).
+See the [examples](examples).
 
 ## Configuration
 
-See the [examples](tree/master/examples). Better docs later. Maybe.
+See the [examples](examples). Better docs later. Maybe.
 
 ## Features
 
@@ -57,7 +57,7 @@ You can also register an incoming message callback by calling `this.register_mes
 
 ### Official plug-ins
 
-**irc-support-bot** has several official plug-ins available for your convenience. The 'admin' module is probably essential, but for modularity's sake, it is still provided as an optional plug-in. There's a [list](wiki/Plugins) on the wiki.
+**irc-support-bot** has several official plug-ins available for your convenience. The 'admin' module is probably essential, but for modularity's sake, it is still provided as an optional plug-in. There's a [[list|Plugins]] on the wiki.
 
 ## Todo
 
@@ -65,4 +65,4 @@ This is a rewrite in LiveScript (from CoffeeScript), but the plug-in API methods
 
 ## License
 
-[UNLICENSE](blob/master/UNLICENSE) yo.
+[UNLICENSE](UNLICENSE) yo.
