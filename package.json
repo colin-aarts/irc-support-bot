@@ -1,0 +1,19 @@
+{
+  "name": "irc-support-bot",
+  "version": "1.0.0",
+  "description": "IRC support bot framework with support for plug-ins",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "irc",
+    "bot"
+  ],
+  "author": "Colin Aarts <hello@colinaarts.com> (http://colinaarts.com)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "irc-js": "^2.0.0-beta"
+  }
+}
