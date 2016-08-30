@@ -11,7 +11,7 @@
     "bot"
   ],
   "author": "Colin Aarts <hello@colinaarts.com> (http://colinaarts.com)",
-  "license": "MIT",
+  "license": "UNLICENSE",
   "private": true,
   "dependencies": {
     "irc-js": "^2.0.0-beta"
