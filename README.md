@@ -8,7 +8,7 @@ A simple IRC bot implemented on top of [IRC-js](https://github.com/gf3/IRC-js), 
 
 ## In the wild
 
-The main support bot in the [#html](irc://irc.freenode.net/html) channel on [Freenode IRC](http://freenode.net) uses **irc-support-bot**. He listens to the name **rivvles** and his triggers are **`** and **]**. He also has his own channel, [#rivvles](irc://irc.freenode.net/rivvles), which can be used to discuss **irc-support-bot** as well.
+The main support bot in the [#html](irc://irc.freenode.net/html) channel on [Freenode IRC](http://freenode.net) uses **irc-support-bot**. He listens to the name **rivvles** and his triggers are `` ` `` and `]`. He also has his own channel, [#rivvles](irc://irc.freenode.net/rivvles), which can be used to discuss **irc-support-bot** as well.
 
 ## Running a bot
 
@@ -61,7 +61,7 @@ You can also register an incoming message callback by calling `this.register_mes
 
 ## Todo
 
-This is a rewrite in LiveScript (from CoffeeScript), but the plug-in API methods still use snake-case. I'll probably want to change this to kebab-case at some point, like other identifiers.
+This is a rewrite in LiveScript (from CoffeeScript), but identifiers relevant to the plug-in API still use snake-case. I'll probably want to change this to kebab-case at some point, like other identifiers.
 
 ## License
 
