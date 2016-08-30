@@ -15,5 +15,6 @@
   "private": true,
   "dependencies": {
     "irc-js": "^2.0.0-beta"
-  }
+  },
+  "bundledDependencies": ["js-extensions"]
 }

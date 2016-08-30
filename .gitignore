@@ -3,7 +3,8 @@
 *.sublime-workspace
 
 ## Node
-node_modules
+node_modules/*
+!node_modules/js-extensions
 
 #################
 ## Eclipse
