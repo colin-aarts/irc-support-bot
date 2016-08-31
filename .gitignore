@@ -5,6 +5,7 @@
 ## Node
 node_modules/*
 !node_modules/js-extensions
+!node_modules/goo.gl
 
 #################
 ## Eclipse
